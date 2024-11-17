@@ -38,7 +38,7 @@ https://rometestus1.testnet.romeprotocol.xyz/request_airdrop
 
 
 [RMIX IDE.](https://remix.ethereum.org/)
-접속
+새창에서 열어주세욤
 
 메마에서 Rome Testnet 네트워크 설정해주세욤.
 
